@@ -65,9 +65,6 @@
 			<button type="submit"> Abrir uma conta </button>
                 
                 </form>
-        
-        <?php
-        // put your code here
-        ?>
+      
     </body>
 </html>
